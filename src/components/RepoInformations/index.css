@@ -1,0 +1,22 @@
+h1 {
+  color: whitesmoke;
+  font-size: larger;
+}
+
+.titulo {
+  border-bottom: 1px solid white;
+}
+
+.top-container {
+  margin-top: 10px;
+  background-color: rgba(92, 88, 88);
+  border-radius: 20px;
+  padding: 8px;
+}
+
+.bottom-container {
+  margin-top: 10px;
+  background-color: rgba(92, 88, 88);
+  border-radius: 20px;
+  padding: 8px;
+}
